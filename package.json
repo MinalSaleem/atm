@@ -1,6 +1,6 @@
 {
-  "name": "@7mina/atm",
-  "version": "1.0.0",
+  "name": "@7mina/atm-machine",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
